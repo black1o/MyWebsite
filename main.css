@@ -28,7 +28,7 @@
        height:250px;
        background:gray;
        margin-top:18px;
-       background-image: url("../img/profile2.png");
+       background-image: url("profile2.png");
        background-repeat: no-repeat;
        background-size: cover;
        display: block;
@@ -43,7 +43,7 @@
        height:250px;
        background:gray;
        margin-top:18px;
-       background-image: url("../img/profile1.png");
+       background-image: url("profile1.png");
        background-repeat: no-repeat;
        background-size: cover;
        display: block;
