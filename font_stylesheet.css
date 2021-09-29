@@ -1,0 +1,28 @@
+/*! This font is for Contact Form */
+@font-face {
+    font-family: 'gobold_lowplusregular';
+    src: url('gobold_lowplus-webfont.woff2') format('woff2'),
+    url('gobold_lowplus-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*! This font is for Head Typewriter */
+
+@font-face {
+    font-family: 'geosanslightregular';
+    src: url('geosanslight-webfont.woff2') format('woff2'),
+    url('geosanslight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+/*! Complete Website Body Font */
+
+@font-face {
+    font-family: 'youngregular';
+    src: url('young-webfont.woff2') format('woff2'),
+    url('young-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
